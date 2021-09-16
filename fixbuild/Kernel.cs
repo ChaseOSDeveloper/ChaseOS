@@ -94,6 +94,7 @@ namespace fixbuild
                                 Console.WriteLine("Press enter to shutdown.");
                                 Console.ReadLine();
                                 Sys.Power.Shutdown();
+                                
                             }
                         }
 
